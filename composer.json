@@ -1,0 +1,19 @@
+{
+    "name": "thangndimap/task-schedule",
+    "description": "thangndimap/task-schedule",
+    "license": "MIT",
+    "keywords": ["laravel"],
+    "homepage": "https://github.com/thangndimap/task-schedule",
+    "autoload": {
+        "psr-4": {
+            "TaskSchedule\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TaskSchedule\\ScheduleServiceProvider"
+            ]
+        }
+    }
+}
