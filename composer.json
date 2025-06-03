@@ -1,9 +1,9 @@
 {
-    "name": "thangndimap/task-schedule",
-    "description": "thangndimap/task-schedule",
+    "name": "8xprovn/task-schedule",
+    "description": "8xprovn/task-schedule",
     "license": "MIT",
     "keywords": ["laravel"],
-    "homepage": "https://github.com/thangndimap/task-schedule",
+    "homepage": "https://github.com/8xprovn/task-schedule",
     "autoload": {
         "psr-4": {
             "TaskSchedule\\": "src/"
